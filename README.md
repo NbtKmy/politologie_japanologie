@@ -6,4 +6,4 @@
 
 ## 2. Textanalyse 
 
-- Text aus SNS
+- [Text aus SNS](https://github.com/NbtKmy/politologie_japanologie/blob/main/bluesky_analyse.md)
